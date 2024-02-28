@@ -1,5 +1,5 @@
 # ProjetoIntTcc
-Para te ajudar a dar os primeiros passos, preparei um guia detalhado com as etapas que você precisa seguir:
+
 
 1. Definição do Escopo:
 
